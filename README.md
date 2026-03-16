@@ -55,16 +55,6 @@ Calculé métricas como CAC, LTV, ROI y ROMI con Python y Excel para evaluar el 
    ```
 4. Abre el notebook desde la carpeta `notebooks/`
 
-## Entregables recomendados
-- Notebook final en Jupyter
-- Gráficas clave o capturas de pantalla
-- Resumen ejecutivo breve o presentación
-- Recomendaciones de negocio
-
-## Notas
-- Reemplaza este texto con tu versión final cuando subas los archivos reales del proyecto.
-- Si el dataset original es privado o muy pesado, explica la fuente en `data/README.md`.
-
 ## Contacto
 **Julio César Rodríguez Tapia**  
 LinkedIn: https://www.linkedin.com/in/julio-rdz-6186951b5/  
